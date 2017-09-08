@@ -1,0 +1,1 @@
+As Quality Control Engineer,you should be able to write unit test and its related techniques and understand written code in kind of reverse engineering of business logic.
